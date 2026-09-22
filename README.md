@@ -19,3 +19,7 @@ desarrolladora Full Stack.
 Me apasiona la programación y busco desarrollarme como programadora. 
 También me gusta la gestión de proyectos, así que disfruto entender 
 cómo se organiza un desarrollo de principio a fin, no solo escribir el código.
+
+## ✨ Dato curioso
+Cuando no estoy programando, probablemente ando con la cámara sacando 
+fotos o maratoneando alguna serie.
